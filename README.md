@@ -1,4 +1,5 @@
-[![Header](https://www.canva.com/design/DAFSGCaMoNQ/DUEX-X7q6wUyK7TQH2WC1g/view?utm_content=DAFSGCaMoNQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![Header](https://github.com/natosipova/natosipova/blob/main/assets/NatalyaOsipova.png)
+
 
 ## I'm a QA Engineer 
 
