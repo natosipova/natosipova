@@ -1,4 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://www.canva.com/design/DAFSGCaMoNQ/DUEX-X7q6wUyK7TQH2WC1g/view?utm_content=DAFSGCaMoNQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## I'm a QA Engineer 
 
 ## My CV
@@ -16,11 +17,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/natosipova/checklist)
+- [Test-Suites and Test-Cases](https://github.com/natosipova/test-cases)
+- [Bug-Reports](https://github.com/natosipova/bug-reports)
+- [SQL Queries](https://github.com/natosipova/SQL)
+- [Postman Collections](https://github.com/natosipova/postman)
 
 ### My Contacts
 
